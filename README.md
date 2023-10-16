@@ -5,7 +5,7 @@
 | Name                    | Email                                                |
 | ----------------------- | ---------------------------------------------------- |
 | Ilina Kirovska          | [up202301450@edu.fe.up.pt](up202301450@edu.fe.up.pt) |
-| Lucas Ferreira de Sousa | [up202004682@edu.fe.up.pt](up202004682@edu.fe.up.pt) |
+| Lucas Zulchner Rios | [up202004682@edu.fe.up.pt](up202004682@edu.fe.up.pt) |
 | Žan Žlender             | [up202302230@edu.fe.up.pt](up202302230@edu.fe.up.pt) |
 
 ## Project
